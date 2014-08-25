@@ -5,4 +5,4 @@ Test a line.
 do it and think it!
 fefefefef
 It' very good!
-create a new branch 
+create a new branch and
